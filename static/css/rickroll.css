@@ -1,0 +1,34 @@
+#body {
+	margin: 0;
+	padding: 0;
+	background-color: white; 
+	visibility: hidden;
+}
+
+#image {
+	width: 300px;
+	border: none;
+}
+
+#clickme {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    border: none;
+    font-size: 100px;
+    padding: 0;
+    visibility: hidden;
+}
+
+#link {
+	font-size: 50px;
+}
+
+#rickroll {
+	height: 100%; 
+	width: 100%; 
+	position: absolute; 
+	border: none; 
+	visibility: hidden;
+}
