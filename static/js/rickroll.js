@@ -5,6 +5,9 @@ function play() {
     document.getElementById("rickroll").style.visibility = "visible";
 	document.getElementById("body").style.backgroundColor = "black";
 	document.title = "RickRolling~";
+	document.getElementById("a").href = "https://github.com/azhuge233/RickRoll-Web";
+	document.getElementById("svg").style.fill = '#FD6C6C';
+	document.getElementById("svg").style.color = '#70B7FD';
 }
 
 document.body.onload = function(){
